@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">This PolarDevs</div>
+                <div class="title">Yeah I got it.!!</div>
+                <img src="http://www.gifbay.com/gif/mfw_its_monday_again-6788/">
             </div>
         </div>
     </body>
