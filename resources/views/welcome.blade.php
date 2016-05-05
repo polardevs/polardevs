@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Yeah I got it.!!</div>
-                <img src="http://www.gifbay.com/gif/mfw_its_monday_again-6788/">
+                <img src="https://media.giphy.com/media/fSHgyXYXy8Sd2/giphy.gif">
             </div>
         </div>
     </body>
