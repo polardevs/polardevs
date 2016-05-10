@@ -38,8 +38,9 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Yeah I got it.!!</div>
+                <div class="title">Yeah I got it!!</div>
                 <img src="https://media.giphy.com/media/fSHgyXYXy8Sd2/giphy.gif">
+                <div>This site deploy by rocketeer.</div>
             </div>
         </div>
     </body>
