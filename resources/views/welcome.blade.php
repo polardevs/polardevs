@@ -40,7 +40,7 @@
             <div class="content">
                 <div class="title">Yeah I got it!!</div>
                 <img src="https://media.giphy.com/media/fSHgyXYXy8Sd2/giphy.gif">
-                <div>This site deploy by rocketeer.</div>
+                <div>This site deploy by rocketeer. test 2</div>
             </div>
         </div>
     </body>
