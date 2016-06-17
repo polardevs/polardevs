@@ -55,7 +55,6 @@
                 <div>TEL        : 093-324-7915</div>
                 <div>EMAIL      : JESADA@POLARDEVS.COM</div>
                 <div>LINE       : OHMMTK</div>
-                <div>PRICE      : 15,000 ++</div>
                 <div>EXPERIENCE : PHP, LARAVEL, BOOTSTRAP, HTML5, JAVASCRIPT, JQUERY</div>
                 <!-- <div><img src="https://media.giphy.com/media/fSHgyXYXy8Sd2/giphy.gif"></div> -->
                 <div><img src="https://media.giphy.com/media/4t9P4d6pqjtja/giphy.gif"></div>
