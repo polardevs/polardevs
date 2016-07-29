@@ -18,8 +18,8 @@ Route::get('/', function () {
 
 Route::get('info-xxx', function () {
   echo phpinfo();
-  // $newrelic = Newrelic::setAppName( 'MyApp' );
-  // dd($newrelic);
+  $newrelic = Newrelic::setAppName( 'Polardevs PHP' );
+  dd($newrelic);
 });
 
 Route::resource('/excel', 'ExcelRenderController');
