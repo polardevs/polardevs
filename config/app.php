@@ -158,6 +158,7 @@ return [
 
         // Custom
         // Maatwebsite\Excel\ExcelServiceProvider::class,
+        Intouch\LaravelNewrelic\NewrelicServiceProvider::class,
 
     ],
 
@@ -207,6 +208,7 @@ return [
 
         // Custom
         // 'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+        'Newrelic' => Intouch\LaravelNewrelic\Facades\Newrelic::class,
     ],
 
 ];

@@ -10,9 +10,16 @@
 | and give it the controller to call when that URI is requested.
 |
 */
+use Newrelic;
 
 Route::get('/', function () {
     return view('pages.home');
 })->name('home');
+
+Route::get('info-xxx', function () {
+  echo phpinfo();
+  $newrelic = Newrelic::setAppName( 'MyApp' );
+  dd($newrelic);
+});
 
 Route::resource('/excel', 'ExcelRenderController');
