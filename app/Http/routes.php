@@ -18,7 +18,7 @@ Route::get('/', function () {
 
 Route::get('info-xxx', function () {
   echo phpinfo();
-  $newrelic = Newrelic::setAppName( 'Polardevs PHP' );
+  $newrelic = Newrelic::setAppName( 'Polardevs PHP edit' );
   dd($newrelic);
 });
 
